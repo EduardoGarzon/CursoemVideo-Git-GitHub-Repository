@@ -1,4 +1,5 @@
-# Repositorio CursoemVideo Git-GitHub
+# Git-GitHub Curso-em-Video Repository
 ***
-- Primeiro repositorio versionado do **curso de Git e GitHub (CursoemVideo)**
-- Fizemos um modelo de site básico como exemplo para o repositório.
+- First versioned repository of the **Git and GitHub course (Curso em Video).**
+- We made a basic site template as an example for the repository.
+***
